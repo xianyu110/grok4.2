@@ -2,7 +2,10 @@
 
 2026 年 2 月 17 日，xAI 创始人埃隆·马斯克在 X 上宣布：**Grok 4.2 发布候选版（公测）正式上线**！用户现在可以直接访问国内高速镜像站手动切换到 Grok 4.2 即可体验。这款模型最大的亮点在于“**快速学习能力**”——不同于以往版本，它能每周持续迭代，附带详细发布笔记，真正实现了“边用边进化”。
 
-
+国内高速推荐入口：https://kelaode.maynorai.top/list/#/home （无需翻墙，支持 SuperGrok 与 Grok 4.2 全功能）
+X App / iOS/Android App：登录后手动切换模型
+xAI API：开发者可直接调用最新模型
+界面：全新优化，更直观、支持文件上传、多轮对话记忆更强
 
 ![图片](https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-10T071240Z_1643871076_RC2PVCA7FSED_RTRMADP_3_XAI-GROK-INDONESIA-768x512.jpg)
 
