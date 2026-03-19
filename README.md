@@ -6,8 +6,6 @@
 
 ![图片](https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-10T071240Z_1643871076_RC2PVCA7FSED_RTRMADP_3_XAI-GROK-INDONESIA-768x512.jpg)
 
-[d3i6fh83elv35t.cloudfront.net](https://d3i6fh83elv35t.cloudfront.net/static/2026/01/2026-01-10T071240Z_1643871076_RC2PVCA7FSED_RTRMADP_3_XAI-GROK-INDONESIA-768x512.jpg)
-
 
 
 ### 1. 核心升级：每周进化 + 多代理协作系统
@@ -21,8 +19,6 @@ Grok 4.2 继承了 Grok 4 的“最智能模型”底座，并进一步强化：
 
 
 ![图片](https://www.basenor.com/cdn/shop/articles/e62222dea01c07ca29374d7d13fb0df4.png?v=1771354937)
-
-[basenor.com](https://www.basenor.com/cdn/shop/articles/e62222dea01c07ca29374d7d13fb0df4.png?v=1771354937)
 
 
 
@@ -50,16 +46,11 @@ Grok 4.2 内置强化学习训练的工具系统，能自主决定何时调用�
 
 ![图片](https://i.redd.it/grok-4-benchmarks-v0-ymt1ov4jczbf1.jpg?width=2868&format=pjpg&auto=webp&s=3fb44e46154c87d32d492724cb43d97d0b6cc472)
 
-[i.redd.it](https://i.redd.it/grok-4-benchmarks-v0-ymt1ov4jczbf1.jpg?width=2868&format=pjpg&auto=webp&s=3fb44e46154c87d32d492724cb43d97d0b6cc472)
 
 ![图片](https://www.aiarty.com/images/ai-image-generator/grok-imagine-prompt.jpg)
 
-[aiarty.com](https://www.aiarty.com/images/ai-image-generator/grok-imagine-prompt.jpg)
 
 ![图片](https://pub-3626123a908346a7a8be8d9295f44e26.r2.dev/livewire-tmp/WZQs8pSB7qCWzPCudFsONu1egN0LRu-metaR3JvdXAgMTAwMDAwOTk5My5wbmc=-.png)
-
-[pub-3626123a908346a7a8be8d9295f44e26.r2.dev](https://pub-3626123a908346a7a8be8d9295f44e26.r2.dev/livewire-tmp/WZQs8pSB7qCWzPCudFsONu1egN0LRu-metaR3JvdXAgMTAwMDAwOTk5My5wbmc=-.png)
-
 
 
 ### 4. 编码神器：直接在聊天里“造游戏”
@@ -92,8 +83,6 @@ Grok 4.2 内置强化学习训练的工具系统，能自主决定何时调用�
 
 
 ![图片](https://embed-ssl.wistia.com/deliveries/12324cca683c4c4ed8a2d8c9c88d648cf579b3e6.webp?image_crop_resized=1280x713)
-
-[embed-ssl.wistia.com](https://embed-ssl.wistia.com/deliveries/12324cca683c4c4ed8a2d8c9c88d648cf579b3e6.webp?image_crop_resized=1280x713)
 
 
 
